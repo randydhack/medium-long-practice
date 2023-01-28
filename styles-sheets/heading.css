@@ -1,6 +1,7 @@
 .heading {
     padding-top: 150px;
     padding-bottom: 120px;
+    background-image: url();
 }
 
 .heading-title {
@@ -32,7 +33,18 @@
     padding: 7px 20px 9px;
 }
 
-.title-image {
-    width: 3px;
-    height: 2px;
+.letter-m {
+    position: absolute;
+    font-size: 300px;
+    top: 30px;
+    right: 40px;
+    rotate: 30deg;
+}
+
+.letter-m-2 {
+    position: absolute;
+    font-size: 300px;
+    top: 220px;
+    right: 300px;
+    rotate: -30deg;
 }

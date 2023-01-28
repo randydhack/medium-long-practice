@@ -7,5 +7,5 @@
 
 .trending-items {
     display: flex;
-    flex-basis: 33.33%
+    flex-direction: repeat(2 1fr);
 }
