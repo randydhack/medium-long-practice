@@ -1,0 +1,19 @@
+.top-container {
+    background-color: #ffc017;
+    display: block;
+}
+* {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0px;
+}
+
+header,
+footer,
+main {
+  margin: auto;
+  max-width: 1200px;
+  padding: 0 40px;
+}
