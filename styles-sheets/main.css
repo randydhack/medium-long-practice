@@ -1,6 +1,8 @@
 .top-container {
     background-color: #ffc017;
     display: block;
+
+
 }
 * {
     box-sizing: inherit;
@@ -11,7 +13,6 @@ body {
 }
 
 header,
-footer,
 main {
   margin: auto;
   max-width: 1200px;
